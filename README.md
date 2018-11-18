@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://i.imgur.com/atkwpuJ.png" alt="code replicator logo"/>
+<img src="https://i.imgur.com/3Qv1alQ.png" alt="code replicator logo"/>
 
 <h1 align="center">
   code-replicator
