@@ -1,15 +1,6 @@
 <p align="center">
 
-<img src="https://i.imgur.com/3Qv1alQ.png" alt="code replicator logo"/>
-
-<h1 align="center">
-  code-replicator
-</h1>
-
-<p align="center">
-  :cake: A piece of cake way to backup or restore settings and extensions from 
-  <a href="https://code.visualstudio.com/">Visual Studio Code</a>
-</p>
+<img width="500" height="500" src="https://i.imgur.com/T3IpJsl.png" alt="code replicator logo" alt="code replicator logo"/>
 
 <p align="center">
   <a href="https://www.patreon.com/daltonmenezes">
